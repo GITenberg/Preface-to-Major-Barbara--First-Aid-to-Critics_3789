@@ -1,0 +1,26 @@
+_repo: Preface-to-Major-Barbara--First-Aid-to-Critics_3789
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shaw, Bernard
+    alias: Shaw, George Bernard
+    birthdate: 1856
+    deathdate: 1950
+    gutenberg_agent_id: '467'
+    url: http://www.gutenberg.org/2009/agents/467
+    wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
+description: ''
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3789'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prefaces'
+- !lcc 'PR'
+- GITenberg
+title: 'Preface to Major Barbara: First Aid to Critics'
+url: http://www.gutenberg.org/ebooks/3789
